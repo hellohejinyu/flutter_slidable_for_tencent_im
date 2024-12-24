@@ -4,7 +4,7 @@ version: 1.4.0
 homepage: https://github.com/letsar/flutter_slidable_for_tencent_im
 
 environment:
-  sdk: '>=2.12.0 <3.0.0'
+  sdk: ">=3.0.0 <4.0.0"
   flutter: ">=1.22.0"
 
 dependencies:
@@ -17,4 +17,4 @@ dev_dependencies:
   mocktail: ^0.3.0
   collection:
 
-flutter:
+#flutter:
